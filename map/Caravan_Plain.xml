@@ -2663,7 +2663,7 @@
     <property name="Shore Bombard Per Ground Unit Restricted" value="fakse" editable="false">
       <boolean/>
     </property>
-    <property name="Naval Bombard Casualties Return Fire Restricted" value="false" editable="false">
+    <property name="Naval Bombard Casualties Return Fire" value="false" editable="false">
       <boolean/>
     </property>
     <property name="Hari-Kari Units" value="true" editable="false">
