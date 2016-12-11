@@ -1245,8 +1245,6 @@
       <option name="movement" value="1"/>
       <option name="transportCost" value="2"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="attack" value="1"/>
       <option name="defense" value="2"/>
       <option name="artillerySupportable" value="true"/>
@@ -1273,8 +1271,6 @@
       <option name="movement" value="1"/>
       <option name="transportCost" value="2"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="attack" value="2"/>
       <option name="defense" value="2"/>
       <option name="artillerySupportable" value="true"/>
@@ -1293,8 +1289,6 @@
       <option name="movement" value="1"/>
       <option name="transportCost" value="2"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="attack" value="1"/>
       <option name="defense" value="1"/>
       <option name="artillerySupportable" value="false"/>
@@ -1304,8 +1298,6 @@
       <option name="movement" value="1"/>
       <option name="transportCost" value="2"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="attack" value="6"/>
       <option name="defense" value="0"/>
       <option name="artillerySupportable" value="false"/>
